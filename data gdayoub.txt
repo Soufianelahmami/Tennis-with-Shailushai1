@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0RXp.webp",
+            "title": "Tennis with Shailushai 1",
+            "text_Content_": " Integrate unexpected challenges or obstacles into the tennis matches. These challenges could be revealed just before the game or during crucial points, adding an element of unpredictability and excitement."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0IkJ.webp",
+            "title": "Tennis with Shailushai 2",
+            "text_Content_": "Invite players from around the world to participate, creating a diverse and culturally rich tournament. Each player could bring their unique style of play, making the Shailushai Tennis Championship a global celebration of tennis."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0Tmv.webp",
+            "title": "Tennis with Shailushai 3",
+            "text_Content_": "Partner with sports technology companies to introduce innovative tennis equipment that enhances the players' skills and adds an extra layer of excitement to the game. This could include smart rackets, advanced training tools, or even augmented reality elements."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0AIR.webp",
+            "title": "Tennis with Shailushai 4",
+            "text_Content_": "Create an interactive experience for fans, both on-site and online. Develop a Shailushai app that allows fans to influence certain aspects of the game, such as choosing challenges or voting on rule changes for specific matches."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0z7a.webp",
+            "title": "Tennis with Shailushai 5",
+            "text_Content_": "Incorporate entertainment events, music, and cultural festivities alongside the tennis matches."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0nrF.webp",
+            "title": "Tennis with Shailushai 6",
+            "text_Content_": "This creates a vibrant and festive atmosphere, attracting a broader audience beyond traditional tennis enthusiasts."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0C11.webp",
+            "title": "Tennis with Shailushai 7",
+            "text_Content_": "Remember, the term "Shailushai" is fictitious in this context, and you can replace it with any term or concept that aligns with your vision for the tennis event."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N0xdg.webp",
+            "title": "Tennis with Shailushai 8",
+            "text_Content_": "Feel free to adapt and modify the idea to suit your preferences and goals."
         }
     ]
 }
